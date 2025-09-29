@@ -1,1 +1,20 @@
+body {
+    background: rgb(237, 168, 227);
+    color: rgb(183, 30, 25);
+}
+h1 { 
+    Color: purple; 
+}
+p {
+    color: lightblue; 
+}
 
+/* select by ID name */ 
+#jordyn {
+    Color: rgb(104, 242, 101) ;
+}
+
+/* Select by CLASS name */
+.uniform {
+    Background:green 
+}
